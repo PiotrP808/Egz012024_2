@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Egz012024_2</string>
+    <string name="wizyta_u_weterynarza">Wizyta u weterynarza</string>
+    <string name="imi_i_nazwisko_w_a_ciciela">Imię i nazwisko właściciela...</string>
+    <string name="gatunek">Gatunek</string>
+    <string name="ile_ma_lat_0">Ile ma lat? 0</string>
+    <string name="cel_wizyty">Cel wizyty</string>
+    <string name="ok">OK</string>
+</resources>
